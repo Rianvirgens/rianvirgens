@@ -4,7 +4,7 @@ Sempre tive interesse em dispositivos eletrônicos e procurava usar o computador
 
 <div>
 <a href="https://github.com/Rianvirgens/Meu-primeiro-portfolio/blob/main/01-meuportf%C3%B3lio.html">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniBulhoes&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riansanto&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniBulhoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
@@ -18,7 +18,7 @@ Sempre tive interesse em dispositivos eletrônicos e procurava usar o computador
 <a href = "mailto:rian.virgensdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<!--
+      <!--
 **Rianvirgens/rianvirgens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
