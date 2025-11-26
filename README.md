@@ -1,6 +1,6 @@
 Oii pessoal, eu sou Rian Santo
 
-Sempre tive interesse em dispositivos eletrônicos e procurava usar o computador, o que me fez despertar um interesse em descobrir como os programas funcionam e como eles são feitos. Isso me ajudou a escolher meu curso como estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul (UNICSUL), e atualmente estou em busca da minha primeira oportunidade de estágio na área de TI.
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul (UNICSUL), e atualmente estou em busca da minha primeira oportunidade de estágio na área de TI.
 
 ## Entre em Contato:
 <div>
