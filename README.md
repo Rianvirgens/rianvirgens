@@ -2,10 +2,6 @@ Oii pessoal, eu sou Rian Santo
 
 Sempre tive interesse em dispositivos eletrônicos e procurava usar o computador, o que me fez despertar um interesse em descobrir como os programas funcionam e como eles são feitos. Isso me ajudou a escolher meu curso como estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul (UNICSUL), e atualmente estou em busca da minha primeira oportunidade de estágio na área de TI.
 
-## Ferramentas e Tecnologias:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-
 ## Entre em Contato:
 <div>
 <a href="https://www.linkedin.com/in/rian-santo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
