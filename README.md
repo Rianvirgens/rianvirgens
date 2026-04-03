@@ -1,75 +1,76 @@
-# 👨‍💻 Rian Santo
+# 👋 Olá, eu sou o Rian Santo
 
-🚀 Estudante de Análise e Desenvolvimento de Sistemas  
-💡 Interessado em DevOps | Cloud Computing | Infraestrutura de TI  
-📍 Brasil  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º semestre)  
+📊 Focado em Ciência de Dados e Inteligência Artificial  
+📍 São Paulo – SP  
 
 ---
 
 ## 🚀 Sobre mim
 
-Olá! Eu sou Rian Santo, estudante de tecnologia e apaixonado por aprender e construir soluções na área de TI.
+Sou apaixonado por dados e tecnologia, com foco em transformar informações em insights que ajudam na tomada de decisões.
 
-Meu foco atual é evoluir nas áreas de DevOps, Cloud Computing, redes e infraestrutura, desenvolvendo projetos práticos e adquirindo experiência com ferramentas usadas no mercado.
+Atualmente estou em formação na área de Dados, desenvolvendo habilidades em Python, SQL e Machine Learning, com projetos práticos e aprendizado contínuo.
 
-Aqui no meu GitHub você encontrará projetos, laboratórios e estudos que fazem parte da minha jornada no mundo da tecnologia.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-Git
-
-GitHub
-
-Linux
-
-Cloud
-
-DevOps
+Busco minha primeira oportunidade como Estagiário ou Analista de Dados Júnior.
 
 ---
 
-## 📚 O que você encontrará aqui
+## 🧠 Habilidades
 
-📂 Projetos acadêmicos  
-⚙️ Laboratórios de infraestrutura  
-☁️ Estudos sobre Cloud e DevOps  
-🖥️ Configuração de ambientes Linux  
-🌐 Conceitos de redes e sistemas  
-
----
-
-## 📊 Estatísticas do GitHub
-
-Rian GitHub stats
-
-Top Langs
+- 🐍 Python  
+- 🗄️ SQL  
+- 📊 Análise de Dados  
+- 🤖 Machine Learning (iniciante)  
+- 📈 Estatística básica  
+- 🧩 Lógica de Programação  
+- 🔧 Git & GitHub  
 
 ---
 
-## 🔥 Atividade no GitHub
+## 📜 Certificações
 
-GitHub Streak
-
----
-
-## 🌐 Conecte-se comigo
-
-💼 LinkedIn  
-http://linkedin.com/in/rian-santo
-
-💻 GitHub  
-https://github.com/Rianvirgens
+- 📊 Ciência de Dados – 60h  
+- 🤖 Machine Learning – 60h  
+- 🗄️ Banco de Dados – 38h  
 
 ---
 
-⭐ **Sempre aprendendo, evoluindo e buscando novos desafios na área de tecnolog
+## 💼 Projetos
 
+### 📊 Análise de Dados
+- Limpeza e organização de dados  
+- Exploração e identificação de padrões  
+- Visualização de informações  
 
-## Entre em Contato:
-<div>
-<a href="https://www.linkedin.com/in/rian-santo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:rian.virgensdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+### 🤖 Machine Learning
+- Modelos preditivos básicos  
+- Estudos com dados reais  
+- Avaliação de desempenho de modelos  
+
+---
+
+## 📌 Objetivo
+
+Atuar na área de Dados, aplicando conhecimentos em análise, visualização e modelagem para gerar valor real para empresas.
+
+---
+
+## 📫 Contato
+
+📧 Email: rian.virgensdev@gmail.com  
+🔗 LinkedIn: http://linkedin.com/in/rian-santo  
+
+---
+
+## ⚡ Diferencial
+
+- 📚 +150 horas de formação em Dados  
+- 🚀 Aprendizado rápido e contínuo  
+- 🎯 Foco total em carreira em Data Science  
+
+---
+
+⭐ Obrigado por visitar meu perfil
+
 
